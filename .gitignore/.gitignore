@@ -1,0 +1,5 @@
+# Ignore os arquivos csv
+*.csv
+
+# Ignore a pasta .ipynb_checkpoints
+.ipynb_checkpoints
