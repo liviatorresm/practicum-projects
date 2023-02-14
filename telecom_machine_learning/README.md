@@ -1,6 +1,6 @@
 ## Data
 
-In this project, I used the data frame [Telecom Plans Analysis](telecom_plans), which has already passed the data pre-processing step.
+In this project, I used the dataframe of Telecom Plans Analysis, which has already passed the data pre-processing step.
 
 - `сalls` — number of calls
 - `minutes` — total duration of the call in minutes
