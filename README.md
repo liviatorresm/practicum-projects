@@ -12,6 +12,6 @@ Compilation of all projects completed throughout <a href="https://practicum.com/
 |[Machine learning model for churn predction](beta_bank_churn)| Develop and train a machine learning model that predicts whether a customer will leave Beta Bank soon. | *pandas*, *scikit-learn*, *matplotlib* |
 |[Machine Learning for mining company Oleobrás](oil_well_construction)| Create machine learning model capable of finding the best place to build new oil wells. | *pandas*, *scikit-learn* |
 |[Machine Learning for gold mining](gold_analysis)| Prepare a prototype machine learning model that predicts the amount of pure gold extracted from gold ore. | *pandas*, *scikit-learn*, *matplotlib* |
-|[Machine Learning for insurance company](insurance_analysis)| Predicting the number of insurance payments a new customer is likely to receive using a linear regression model. | *pandas*, *numpy*, *math*, *scikit-learn*, *matplotlib*, *seaborn*  |
+|[Machine Learning for insurance company](insurance)| Predicting the number of insurance payments a new customer is likely to receive using a linear regression model. | *pandas*, *numpy*, *math*, *scikit-learn*, *matplotlib*, *seaborn* |
 
 *Projects are listed in the order that they were completed.*
