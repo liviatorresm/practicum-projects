@@ -2,10 +2,13 @@
 *.csv
 
 # Ignore figures
-
 *.png
 
 # Ignore a pasta .ipynb_checkpoints
 .ipynb_checkpoints
+
+# Ignore a pasta .catboost_info
 .catboost_info
-..vscode
+
+# Ignore a pasta .vscode
+.vscode
